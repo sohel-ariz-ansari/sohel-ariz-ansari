@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohel-ariz-ansari
+- 👋 Hi, I’m Sohel
 - 👀 I’m interested in Angular Frontend Development, UI/UX, Coding, Database Management, and hosting
 - 🌱 I’m currently learning Angular AI Tools
 - 💞️ I’m looking to collaborate on Angular Latest Versions
