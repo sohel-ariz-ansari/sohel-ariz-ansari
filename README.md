@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohel-ariz-ansari
-- 👀 I’m interested in UI/UX, Coding, Database Management, Hosting
-- 🌱 I’m currently learning Angular/React
-- 💞️ I’m looking to collaborate on Angular/React
+- 👀 I’m interested in Angular Frontend Development, UI/UX, Coding, Database Management, and hosting
+- 🌱 I’m currently learning Angular AI Tools
+- 💞️ I’m looking to collaborate on Angular Latest Versions
 - 📫 Mobile:- +91 70301 05755 / Email:- sohel.arif.ansari@outlook.com / ansariweb7@gmail.com
 
 <!---
