@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sohel
 - 👀 I’m interested in Angular Frontend Development, UI/UX, Coding, Database Management, and hosting
-- 🌱 I’m currently learning Angular AI Tools
-- 💞️ I’m looking to collaborate on Angular Latest Versions
+- 🌱 I’m currently learning Agentic AI.
+- 💞️ I’m looking to collaborate on the latest versions of Angular
 - 📫 Mobile:- +91 70301 05755 / Email:- sohel.arif.ansari@outlook.com / ansariweb7@gmail.com
 
 <!---
